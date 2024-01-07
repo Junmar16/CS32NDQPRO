@@ -1,0 +1,128 @@
+            body {
+                background-color: lightblue;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                min-height: 100vh;
+                margin: 0;
+            }
+            .ISAAC {
+                margin:auto;
+                border:px solid black;
+                text-align: center;
+                background-color: blue;
+            }
+
+            .ALBERT {
+                border:5px solid black;
+                text-align: center;
+                background-color: aquamarine;
+            }
+            .FARADAY {
+                border:5px solid black;
+                text-align: center;
+                background-color: beige;
+            }
+            .Francklin {
+                border:5px solid black;
+                text-align: center;
+                background-color: bisque;
+            }
+            .Rutherford {
+                border:5px solid black;
+                text-align: center;
+                background-color: azure;
+            }
+            .Edison {
+                border:5px solid black;
+                text-align: center;
+                background-color: blanchedalmond;
+            }
+            .Planck {
+                border:5px solid black;
+                text-align: center;
+                background-color: pink;
+            }
+            .Rontgen {
+                border:5px solid black;
+                text-align: center;
+                background-color: lightsalmon;
+            }
+            .Dalton {
+                border:5px solid black;
+                text-align: center;
+                background-color: lightpink;
+            }
+            .Fermi {
+                border:5px solid black;
+                text-align: center;
+                background-color: lightcoral;
+            }
+            .Chadwick {
+                border:5px solid black;
+                text-align: center;
+                background-color: lightcyan;
+            } 
+            .Columbus {
+                border:5px solid black;
+                text-align: center;
+                background-color: lightskyblue;
+            }
+            .Bohr {
+                border:5px solid black;
+                text-align: center;
+                background-color: lightseagreen;
+            }
+            .Bacquerel {
+                border:5px solid black;
+                text-align: center;
+                background-color: lightskyblue;
+            } 
+            .icon {
+                float: right;
+                width: 90px;
+                height: 70px;
+            }
+            .Menu {
+                background-color:gray;
+                width: 100%;
+                height: 70px;
+                overflow: hidden;
+                color:white;
+                padding: 15px;
+
+             }
+             .Menu a {    
+                text-decoration: none;
+                color: white;
+                padding: 15px;
+                margin: 0 10px;
+                display: inline-block;
+                transition: background-color 0.3s;
+                
+             }
+            .Menu a:hover{
+                    background-color: #555;
+                }
+            .imagesprite {
+                    background: url("fu607-removebg-preview.png") no-repeat -20px -15px;
+                    width: 75px;
+                    height: 75px;
+                    display: block;
+                }
+            .imagesprite a {
+                display: block;
+                width: 75px;
+                height: 75px;
+                }
+                .imagesprite2{
+                background: url("fu607-removebg-preview.png") no-repeat -365px -25px;
+                width: 75px;
+                height: 54px;
+                }
+                .imagesprite2 a {
+                display: block;
+                width: 75px;
+                height:54px;
+                }  
